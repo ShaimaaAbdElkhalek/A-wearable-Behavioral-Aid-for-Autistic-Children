@@ -3,10 +3,6 @@
 A graduation project from the Faculty of Engineering, Biomedical Engineering Department, designed to assist children with Autism Spectrum Disorder (ASD) in recognizing and interpreting emotions in social interactions. This wearable device, integrated with a deep learning model and mobile application, aims to enhance social communication skills by providing real-time feedback on the emotions of people around the wearer.
 
 
-## Project Overview
-
-ASD affects social interaction, communication, and behavior, often making it challenging for individuals to interpret social cues. This project proposes a wearable device in the form of glasses equipped with a camera, integrated with a mobile app, that processes facial expressions through a predictive deep learning model. By identifying emotions in real-time, the system can provide immediate feedback to children with ASD, potentially improving their understanding and engagement in social situations.
-# Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Key Features](#key-features)
@@ -26,6 +22,10 @@ ASD affects social interaction, communication, and behavior, often making it cha
 
 ---
 
+## Project Overview
+
+ASD affects social interaction, communication, and behavior, often making it challenging for individuals to interpret social cues. This project proposes a wearable device in the form of glasses equipped with a camera, integrated with a mobile app, that processes facial expressions through a predictive deep learning model. By identifying emotions in real-time, the system can provide immediate feedback to children with ASD, potentially improving their understanding and engagement in social situations.
+# Table of Contents
 
 ## Key Features
 
