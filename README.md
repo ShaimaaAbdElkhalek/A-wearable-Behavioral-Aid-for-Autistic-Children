@@ -34,7 +34,7 @@ ASD affects social interaction, communication, and behavior, often making it cha
 - **Mobile Application Integration**: The application is designed to be user-friendly, allowing caregivers and individuals with ASD to receive emotion recognition data.
 - **Transfer Learning Optimization**: Utilizes transfer learning with models like EfficientNetB7 and MobileNetV2 to enhance accuracy and reduce computational requirements.
 - **Real-world Application**: Tested and validated in collaboration with professionals in autism research.
-- 
+  
 ## Motivation
 Autism Spectrum Disorder impacts individuals' ability to interpret nonverbal cues, such as facial expressions, which are essential for social interactions. This wearable aid aims to enhance independence and improve social communication skills for children with ASD, using deep learning and wearable technology.
 
